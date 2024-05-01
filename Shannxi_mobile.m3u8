@@ -1,40 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="未分类",CCTV01
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="未分类",CCTV02
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="未分类",CCTV03移动超高清
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV04移动超高清
+#EXTINF:-1 group-title="未分类",CCTV4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV05移动超高清
+#EXTINF:-1 group-title="未分类",CCTV5
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV5+移动超高清
+#EXTINF:-1 group-title="未分类",CCTV5+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV06移动超高清
+#EXTINF:-1 group-title="未分类",CCTV6
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV07移动超高清
+#EXTINF:-1 group-title="未分类",CCTV7
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV08移动超高清
+#EXTINF:-1 group-title="未分类",CCTV8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV09移动超高清
+#EXTINF:-1 group-title="未分类",CCTV9
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV10移动超高清
+#EXTINF:-1 group-title="未分类",CCTV10
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV11移动超高清
+#EXTINF:-1 group-title="未分类",CCTV11
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV12移动超高清
+#EXTINF:-1 group-title="未分类",CCTV12
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV13移动超高清
+#EXTINF:-1 group-title="未分类",CCTV13
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV14移动超高清
+#EXTINF:-1 group-title="未分类",CCTV14
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV15移动超高清
+#EXTINF:-1 group-title="未分类",CCTV15
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV16移动超高清
+#EXTINF:-1 group-title="未分类",CCTV16
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-#EXTINF:-1 group-title="未分类",CCTV17移动超高清
+#EXTINF:-1 group-title="未分类",CCTV17
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 #EXTINF:-1 group-title="未分类",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
